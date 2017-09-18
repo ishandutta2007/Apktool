@@ -38,3 +38,32 @@ If you discover a security vulnerability within Apktool, please send an e-mail t
 - [Source (Github)](https://github.com/iBotPeaches/Apktool)
 - [Source (Bitbucket)](https://bitbucket.org/iBotPeaches/apktool/)
 
+
+### Install Instructions
+#### Quick Check
+- Is at least Java 1.7 installed?
+- Does executing java -version on command line / command prompt return 1.7 or greater?
+- If not, please install Java 7+ and make it the default.
+- Installation for Apktool
+#### Windows:
+- Download Windows wrapper script (Right click, Save Link As apktool.bat)
+- Download apktool-2 (find newest here)
+- Rename downloaded jar to apktool.jar
+- Move both files (apktool.jar & apktool.bat) to your Windows directory (Usually C://Windows)
+- If you do not have access to C://Windows, you may place the two files anywhere then add that directory to your Environment - - Variables System PATH variable.
+- Try running apktool via command prompt
+#### Linux:
+- Download Linux wrapper script (Right click, Save Link As apktool)
+- Download apktool-2 (find newest here)
+- Rename downloaded jar to apktool.jar
+- Move both files (apktool.jar & apktool) to /usr/local/bin (root needed)
+- Make sure both files are executable (chmod +x)
+- Try running apktool via cli
+#### Mac OS X:
+- Download Mac wrapper script (Right click, Save Link As apktool)
+- Download apktool-2 (find newest here)
+- Rename downloaded jar to apktool.jar
+- Move both files (apktool.jar & apktool) to /usr/local/bin (root needed)
+- Make sure both files are executable (chmod +x)
+- Try running apktool via cli
+#### Note - Wrapper scripts are not needed, but helpful so you don’t have to type java -jar apktool.jar over and over.
