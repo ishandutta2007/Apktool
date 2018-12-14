@@ -67,3 +67,10 @@ If you discover a security vulnerability within Apktool, please send an e-mail t
 - Make sure both files are executable (chmod +x)
 - Try running apktool via cli
 #### Note - Wrapper scripts are not needed, but helpful so you don’t have to type java -jar apktool.jar over and over.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
